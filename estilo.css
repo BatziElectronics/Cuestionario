@@ -5,14 +5,16 @@ font-family: Arial, Helvetica, sans-serif;
 p {
 font-weight: 300;
 font-family: 'Times New Roman', Times, serif;
-color: #333;
-font-size: 18px;
+color: white;
+font-size: 25px;
 margin-left: 20px;
 }
 a {
 text-decoration: none;
 font-size: 20px;
 margin-left: 150px;
+margin-top: 20px;
+margin-button: 20px;
 }
 body {
 background: #313D52;
